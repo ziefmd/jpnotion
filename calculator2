@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ziefmd 
-ShoroukAziz
-/
-notion_widgets
-2
-86729
-Code
-Issues
-Pull requests
-37
-Actions
-Projects
-Wiki
-Security
-Insights
-notion_widgets/calculator.html
-@ShoroukAziz
-ShoroukAziz Update calculator.html
-Latest commit e944e61 on Jun 21, 2020
- History
- 1 contributor
-378 lines (314 sloc)  8.06 KB
-  
 <!-- origenal : https://codepen.io/dishabansal/pen/xypOBB -->
 <!DOCTYPE html>
 <html lang="en">
@@ -406,15 +376,3 @@ function degrees() {
 </script>
 
 </html>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
